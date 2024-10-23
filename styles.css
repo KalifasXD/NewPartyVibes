@@ -773,6 +773,7 @@ figure:hover+span {
 
   .contact-info p {
     font-size: 18px; /* Slightly smaller text for better readability on small screens */
+    margin: 0 !important;
   }
 }
 
